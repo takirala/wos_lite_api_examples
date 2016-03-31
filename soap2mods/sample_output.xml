@@ -1,0 +1,71 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <ns2:searchResponse xmlns:ns2="http://woksearchlite.v3.wokmws.thomsonreuters.com">
+            <return>
+                <queryId>2</queryId>
+                <recordsFound>252</recordsFound>
+                <recordsSearched>66339</recordsSearched>
+                <records>
+                    <uid>WOS:000371162800051</uid>
+                    <title>
+                        <label>Title</label>
+                        <value>FERROPORTIN AND HEPCIDIN IN RETINAL IRON HOMEOSTASIS</value>
+                    </title>
+                    <source>
+                    <label>Issue</label>
+                    <value>3</value>
+                    </source>
+                    <source>
+                    <label>Pages</label>
+                    <value>E64-E64</value>
+                    </source>
+                    <source>
+                    <label>Published.BiblioDate</label>
+                    <value>MAR</value>
+                    </source>
+                    <source>
+                    <label>Published.BiblioYear</label>
+                    <value>2016</value>
+                    </source>
+                    <source>
+                    <label>SourceTitle</label>
+                    <value>AMERICAN JOURNAL OF HEMATOLOGY</value>
+                    </source>
+                    <source>
+                    <label>Volume</label>
+                    <value>91</value>
+                    </source>
+                    <authors>
+                        <label>Authors</label>
+                        <value>Song, Delu</value>
+                        <value>Theurl, Milan</value>
+                        <value>Clark, Esther</value>
+                        <value>Sterling, Jacob</value>
+                        <value>Altamura, Sandro</value>
+                        <value>Galy, Bruno</value>
+                        <value>Hentze, Matthias</value>
+                        <value>Muckenthaler, Martina</value>
+                        <value>Grieco, Steven</value>
+                        <value>Dunaief, Joshua</value>
+                    </authors>
+                    <other>
+                        <label>Identifier.Eissn</label>
+                        <value>1096-8652</value>
+                    </other>
+                    <other>
+                        <label>Identifier.Ids</label>
+                        <value>DF2HI</value>
+                    </other>
+                    <other>
+                        <label>Identifier.Issn</label>
+                        <value>0361-8609</value>
+                    </other>
+                    <other>
+                        <label>ResearcherID.Disclaimer</label>
+                        <value>ResearcherID data provided by Thomson Reuters</value>
+                    </other>
+                </records>
+            </return>
+        </ns2:searchResponse>
+    </soap:Body>
+</soap:Envelope>
