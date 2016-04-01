@@ -7,3 +7,4 @@
 5. Map the fields in SOAP Envelop to that of MODSXML
 6. Try to reuse existing code and develop a python module that consumes exisiting soap envelope and emits a MODSXML output. Refer XML Schema document of MODSXML at http://www.loc.gov/standards/mods/v3/mods-3-4.xsd.
 7. Verify by passing the generated file as input to the xml2bib util tool. Done.
+8. Make a new repo for this process called 'wos2mods'
