@@ -1,0 +1,5 @@
+#its good to ignore stuff when commiting
+
+.DS_Store
+soap/uf_tr_credentials.txt
+soap/b64_uf_tr_credentials.txt
