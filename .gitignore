@@ -3,3 +3,4 @@
 .DS_Store
 soap/uf_tr_credentials.txt
 soap/b64_uf_tr_credentials.txt
+soap2mods/*
