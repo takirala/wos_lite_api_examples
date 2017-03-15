@@ -1,0 +1,22 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+   xmlns:woksearchlite="http://woksearchlite.v3.wokmws.thomsonreuters.com">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <woksearchlite:search>
+         <queryParameters>
+            <databaseId>WOS</databaseId>
+            <userQuery>OG=University of Florida</userQuery>
+            <editions>
+               <collection>WOS</collection>
+               <edition>SCI</edition>
+            </editions>
+            <symbolicTimeSpan>2week</symbolicTimeSpan>
+            <queryLanguage>en</queryLanguage>
+         </queryParameters>
+         <retrieveParameters>
+            <firstRecord>1</firstRecord>
+            <count>5</count>
+         </retrieveParameters>
+      </woksearchlite:search>
+   </soapenv:Body>
+</soapenv:Envelope>

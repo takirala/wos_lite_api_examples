@@ -1,0 +1,1068 @@
+HTTP / 1.1 200 OK
+Access - Control - Allow - Headers: X - Requested - With
+Access - Control - Allow - Origin: *
+  Vary: Accept
+Content - Type: application / json;
+charset = UTF - 8
+Content - Length: 25771
+Server: http - kit
+Date: Fri, 04 Mar 2016 18: 44: 54 GMT
+Connection: close
+
+{
+  "status": "ok",
+  "message-type": "journal-list",
+  "message-version": "1.0.0",
+  "message": {
+    "items": [{
+      "title": "AATCC Journal of Research",
+      "publisher": "American Association of Textile Chemists and Colorists - AATCC",
+      "ISSN": ["2330-5517"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": true,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": true,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0.0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 1.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.0,
+        "award-numbers-current": 0.0,
+        "resource-links-current": 0.0,
+        "references-current": 0.3333333432674408
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2014, 24],
+          [2015, 20],
+          [2016, 4]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 12,
+        "current-dois": 36,
+        "total-dois": 48
+      },
+      "last-status-check-time": 1457074848059
+    }, {
+      "title": "Academy of Management Executive",
+      "publisher": "The Academy of Management",
+      "ISSN": ["1990-1993"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": false,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": false,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0,
+        "licenses-backfile": 0,
+        "funders-current": 0,
+        "resource-links-backfile": 0,
+        "orcids-backfile": 0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0,
+        "award-numbers-backfile": 0,
+        "update-policies-backfile": 0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": []
+      },
+      "counts": {
+        "backfile-dois": 0,
+        "current-dois": 0,
+        "total-dois": 0
+      },
+      "last-status-check-time": 1457074848142
+    }, {
+      "title": "Academy of Management Executive",
+      "publisher": "The Academy of Management",
+      "ISSN": ["1896-3789"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": false,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": false,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0,
+        "licenses-backfile": 0,
+        "funders-current": 0,
+        "resource-links-backfile": 0,
+        "orcids-backfile": 0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0,
+        "award-numbers-backfile": 0,
+        "update-policies-backfile": 0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": []
+      },
+      "counts": {
+        "backfile-dois": 0,
+        "current-dois": 0,
+        "total-dois": 0
+      },
+      "last-status-check-time": 1457074848217
+    }, {
+      "title": "Serbian Journal of Experimental and Clinical Research",
+      "publisher": "Walter de Gruyter GmbH",
+      "ISSN": ["1820-8665", "2335-075X"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": true,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": true,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0.0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.25,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.0,
+        "award-numbers-current": 0.0,
+        "resource-links-current": 0.0,
+        "references-current": 0.9130434989929199
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2015, 46],
+          [2014, 35],
+          [2012, 29],
+          [2013, 25],
+          [2011, 22]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 104,
+        "current-dois": 46,
+        "total-dois": 150
+      },
+      "last-status-check-time": 1457074848324
+    }, {
+      "title": "Acci\u00f3n Psicol\u00f3gica",
+      "publisher": "UNED - Universidad Nacional de Educacion a Distancia",
+      "ISSN": ["1578-908X"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0.0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.0,
+        "award-numbers-current": 0.0,
+        "resource-links-current": 0.0,
+        "references-current": 0.0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2015, 43],
+          [2012, 23],
+          [2009, 22],
+          [2004, 21],
+          [2003, 21],
+          [2002, 21],
+          [2006, 18],
+          [2014, 17],
+          [2010, 15],
+          [2008, 15],
+          [2013, 14],
+          [2011, 14],
+          [2007, 10]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 194,
+        "current-dois": 60,
+        "total-dois": 254
+      },
+      "last-status-check-time": 1457074848415
+    }, {
+      "title": "Aceh International Journal of Science and Technology",
+      "publisher": "\"Institute of Postgraduate Studies, Syiah Kuala University\"",
+      "ISSN": ["2088-9860"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": true,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0.0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.0,
+        "award-numbers-current": 0.0,
+        "resource-links-current": 0.3478260934352875,
+        "references-current": 0.0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2014, 41],
+          [2015, 15],
+          [2013, 15]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 25,
+        "current-dois": 46,
+        "total-dois": 71
+      },
+      "last-status-check-time": 1457074848505
+    }, {
+      "title": "Acetophenones Substituted on the Aromatic Ring",
+      "publisher": "Thieme Publishing Group",
+      "ISSN": ["2020-0064"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": false,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": false,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0,
+        "licenses-backfile": 0,
+        "funders-current": 0,
+        "resource-links-backfile": 0,
+        "orcids-backfile": 0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0,
+        "award-numbers-backfile": 0,
+        "update-policies-backfile": 0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": []
+      },
+      "counts": {
+        "backfile-dois": 0,
+        "current-dois": 0,
+        "total-dois": 0
+      },
+      "last-status-check-time": 1457074848585
+    }, {
+      "title": "Acid-Catalyzed Protic Solvent Spiroketalization toward Milbemycin",
+      "publisher": "Thieme Publishing Group",
+      "ISSN": ["2020-0498"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": false,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": false,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0,
+        "licenses-backfile": 0,
+        "funders-current": 0,
+        "resource-links-backfile": 0,
+        "orcids-backfile": 0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0,
+        "award-numbers-backfile": 0,
+        "update-policies-backfile": 0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": []
+      },
+      "counts": {
+        "backfile-dois": 0,
+        "current-dois": 0,
+        "total-dois": 0
+      },
+      "last-status-check-time": 1457074848663
+    }, {
+      "title": "ACM Journal of Computer Documentation",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["1527-6805"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2000, 31],
+          [2001, 24],
+          [2002, 22]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 77,
+        "current-dois": 0,
+        "total-dois": 77
+      },
+      "last-status-check-time": 1457074848749
+    }, {
+      "title": "ACM Letters on Programming Languages and Systems",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["1057-4514"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [1992, 25],
+          [1993, 17]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 42,
+        "current-dois": 0,
+        "total-dois": 42
+      },
+      "last-status-check-time": 1457074848899
+    }, {
+      "title": "ACM SIGLASH Newsletter",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["0036-147X"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [1980, 11],
+          [1979, 11],
+          [1977, 4],
+          [1976, 4],
+          [1981, 2]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 32,
+        "current-dois": 0,
+        "total-dois": 32
+      },
+      "last-status-check-time": 1457074849009
+    }, {
+      "title": "ACM SIGMINI Newsletter",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["0163-576X"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [1976, 46],
+          [1978, 42],
+          [1975, 15],
+          [1977, 13]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 116,
+        "current-dois": 0,
+        "total-dois": 116
+      },
+      "last-status-check-time": 1457074849115
+    }, {
+      "title": "ACM SIGPC Notes",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["0163-5816"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0,
+        "orcids-current": 0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0,
+        "award-numbers-current": 0,
+        "resource-links-current": 0,
+        "references-current": 0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [1978, 14],
+          [1981, 9],
+          [1979, 9],
+          [1982, 2]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 34,
+        "current-dois": 0,
+        "total-dois": 34
+      },
+      "last-status-check-time": 1457074849213
+    }, {
+      "title": "ACM SIGUCCS plugged in",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["2168-8516"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": false,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": false,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": false,
+        "deposits-award-numbers-backfile": false,
+        "deposits-references-current": false,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": false,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": false
+      },
+      "coverage": {
+        "funders-backfile": 0.0,
+        "licenses-backfile": 0.0,
+        "funders-current": 0.0,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.0,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.0,
+        "award-numbers-current": 0.0,
+        "resource-links-current": 0.0,
+        "references-current": 0.0
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2013, 37],
+          [2014, 21],
+          [2012, 12]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 60,
+        "current-dois": 10,
+        "total-dois": 70
+      },
+      "last-status-check-time": 1457074849324
+    }, {
+      "title": "ACM Transactions on Computing Education",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["1946-6226"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": true,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": true,
+        "deposits-references-backfile": true,
+        "deposits-licenses-backfile": true,
+        "deposits-award-numbers-backfile": true,
+        "deposits-references-current": true,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": true,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": true
+      },
+      "coverage": {
+        "funders-backfile": 0.04065040498971939,
+        "licenses-backfile": 0.04065040498971939,
+        "funders-current": 0.32203391194343567,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.04065040498971939,
+        "award-numbers-backfile": 0.04065040498971939,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.8474576473236084,
+        "award-numbers-current": 0.22033898532390594,
+        "resource-links-current": 0.0,
+        "references-current": 0.8305084705352783
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2015, 28],
+          [2014, 28],
+          [2011, 28],
+          [2010, 26],
+          [2013, 23],
+          [2012, 20],
+          [2009, 20],
+          [2016, 9]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 123,
+        "current-dois": 59,
+        "total-dois": 182
+      },
+      "last-status-check-time": 1457074849473
+    }, {
+      "title": "ACM Transactions on Economics and Computation",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["2167-8375"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": true,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": true,
+        "deposits-references-backfile": true,
+        "deposits-licenses-backfile": true,
+        "deposits-award-numbers-backfile": true,
+        "deposits-references-current": true,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": true,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": true
+      },
+      "coverage": {
+        "funders-backfile": 0.24137930572032928,
+        "licenses-backfile": 0.3103448152542114,
+        "funders-current": 0.6166666746139526,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.24137930572032928,
+        "award-numbers-backfile": 0.2068965584039688,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.8333333134651184,
+        "award-numbers-current": 0.550000011920929,
+        "resource-links-current": 0.0,
+        "references-current": 0.800000011920929
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2015, 35],
+          [2013, 24],
+          [2014, 21],
+          [2016, 9]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 29,
+        "current-dois": 60,
+        "total-dois": 89
+      },
+      "last-status-check-time": 1457074849593
+    }, {
+      "title": "ACM Transactions on Intelligent Systems and Technology",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["2157-6904"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": true,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": true,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": true,
+        "deposits-award-numbers-backfile": true,
+        "deposits-references-current": true,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": true,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": true
+      },
+      "coverage": {
+        "funders-backfile": 0.012295082211494446,
+        "licenses-backfile": 0.012295082211494446,
+        "funders-current": 0.5350318551063538,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.012295082211494446,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.9363057613372803,
+        "award-numbers-current": 0.42675158381462097,
+        "resource-links-current": 0.0,
+        "references-current": 0.9108280539512634
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2013, 100],
+          [2015, 92],
+          [2011, 65],
+          [2012, 62],
+          [2014, 46],
+          [2016, 19],
+          [2010, 17]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 244,
+        "current-dois": 157,
+        "total-dois": 401
+      },
+      "last-status-check-time": 1457074849713
+    }, {
+      "title": "ACM Transactions on Interactive Intelligent Systems",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["2160-6455"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": true,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": true,
+        "deposits-references-backfile": true,
+        "deposits-licenses-backfile": true,
+        "deposits-award-numbers-backfile": true,
+        "deposits-references-current": true,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": true,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": true
+      },
+      "coverage": {
+        "funders-backfile": 0.06849315017461777,
+        "licenses-backfile": 0.12328767031431198,
+        "funders-current": 0.5535714030265808,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.08219178020954132,
+        "award-numbers-backfile": 0.06849315017461777,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.8392857313156128,
+        "award-numbers-current": 0.3035714328289032,
+        "resource-links-current": 0.0,
+        "references-current": 0.7857142686843872
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2012, 36],
+          [2014, 30],
+          [2015, 28],
+          [2013, 23],
+          [2011, 7],
+          [2016, 5]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 73,
+        "current-dois": 56,
+        "total-dois": 129
+      },
+      "last-status-check-time": 1457074849821
+    }, {
+      "title": "ACM Transactions on Management Information Systems",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["2158-656X"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": true,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": true,
+        "deposits-references-backfile": false,
+        "deposits-licenses-backfile": true,
+        "deposits-award-numbers-backfile": true,
+        "deposits-references-current": true,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": true,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": true
+      },
+      "coverage": {
+        "funders-backfile": 0.023255813866853714,
+        "licenses-backfile": 0.023255813866853714,
+        "funders-current": 0.3921568691730499,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.0,
+        "award-numbers-backfile": 0.011627906933426857,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.8235294222831726,
+        "award-numbers-current": 0.29411765933036804,
+        "resource-links-current": 0.0,
+        "references-current": 0.8235294222831726
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2011, 30],
+          [2013, 29],
+          [2015, 24],
+          [2014, 21],
+          [2012, 19],
+          [2010, 8],
+          [2016, 6]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 86,
+        "current-dois": 51,
+        "total-dois": 137
+      },
+      "last-status-check-time": 1457074849925
+    }, {
+      "title": "ACM Transactions on the Web",
+      "publisher": "Association for Computing Machinery",
+      "ISSN": ["1559-1131"],
+      "flags": {
+        "deposits-orcids-current": false,
+        "deposits": true,
+        "deposits-update-policies-backfile": false,
+        "deposits-award-numbers-current": true,
+        "deposits-resource-links-current": false,
+        "deposits-articles": true,
+        "deposits-funders-current": true,
+        "deposits-references-backfile": true,
+        "deposits-licenses-backfile": true,
+        "deposits-award-numbers-backfile": true,
+        "deposits-references-current": true,
+        "deposits-resource-links-backfile": false,
+        "deposits-orcids-backfile": false,
+        "deposits-funders-backfile": true,
+        "deposits-update-policies-current": false,
+        "deposits-licenses-current": true
+      },
+      "coverage": {
+        "funders-backfile": 0.035087719559669495,
+        "licenses-backfile": 0.035087719559669495,
+        "funders-current": 0.6382978558540344,
+        "resource-links-backfile": 0.0,
+        "orcids-backfile": 0.0,
+        "update-policies-current": 0.0,
+        "orcids-current": 0.0,
+        "references-backfile": 0.035087719559669495,
+        "award-numbers-backfile": 0.02923976629972458,
+        "update-policies-backfile": 0.0,
+        "licenses-current": 0.8510638475418091,
+        "award-numbers-current": 0.27659574151039124,
+        "resource-links-current": 0.0,
+        "references-current": 0.8297872543334961
+      },
+      "breakdowns": {
+        "dois-by-issued-year": [
+          [2013, 35],
+          [2008, 26],
+          [2015, 25],
+          [2011, 25],
+          [2014, 22],
+          [2012, 22],
+          [2010, 21],
+          [2009, 18],
+          [2007, 17],
+          [2016, 7]
+        ]
+      },
+      "counts": {
+        "backfile-dois": 171,
+        "current-dois": 47,
+        "total-dois": 218
+      },
+      "last-status-check-time": 1457074850044
+    }],
+    "total-results": 45247,
+    "query": {
+      "search-terms": null,
+      "start-index": 0
+    },
+    "items-per-page": 20
+  }
+}
