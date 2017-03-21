@@ -1,0 +1,7 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+   <!-- the session ID is sent in the HTTP header and is not part of the soap body -->
+   <WOKMWSAuthentcate:closeSession 
+   xmlns:WOKMWSAuthentcate="http://auth.cxf.wokmws.thomsonreuters.com"/>
+   </soap:Body>
+</soap:Envelope>
