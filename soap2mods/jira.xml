@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="Foster1996">
+    <titleInfo>
+        <title>Observations on the transmission of scrapie in experiments                 using embryo transfer</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">J</namePart>
+        <namePart type="given">D</namePart>
+        <namePart type="family">Foster</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">N</namePart>
+        <namePart type="family">Hunter</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">A</namePart>
+        <namePart type="family">Williams</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">M</namePart>
+        <namePart type="given">J</namePart>
+        <namePart type="given">A</namePart>
+        <namePart type="family">Mylne</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">W</namePart>
+        <namePart type="given">A</namePart>
+        <namePart type="given">C</namePart>
+        <namePart type="family">McKelvey</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">J</namePart>
+        <namePart type="family">Hope</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">H</namePart>
+        <namePart type="family">Fraser</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">C</namePart>
+        <namePart type="family">Bostock</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>1996-JUN 8</dateIssued>
+        <place>
+            <placeTerm type="text">INST ANIM HLTH, OGSTON BLDG, W MAINS RD, EDINBURGH EH9 3JF, MIDLOTHIAN, SCOTLAND.MRC, NEUROPATHOGENESIS UNIT, EDINBURGH EH9 3JF, MIDLOTHIAN, SCOTLAND.SCOTTISH AGR COLL, VET SERV DIV, PENICUIK, MIDLOTHIAN, SCOTLAND.INST ANIM HLTH, COMPTON LAB, READING RG16 0NN, BERKS, ENGLAND.</placeTerm>
+        </place>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre>journal article</genre>
+    <language>
+        <languageTerm type="text">English</languageTerm>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>VETERINARY RECORD</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>BRITISH VETERINARY ASSOC</publisher>
+            <place>
+                <placeTerm type="text">LONDON</placeTerm>
+            </place>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre>academic journal</genre>
+        <identifier type="issn">0042-4900</identifier>
+    </relatedItem>
+    <abstract>This investigation studied the maternal transmission of scrapie in sheep ...</abstract>
+    <note type="times cited">0</note>
+    <subject>
+        <topic>FIBRIL PROTEIN PRP</topic>
+    </subject>
+    <subject>
+        <topic>SIP GENE</topic>
+    </subject>
+    <subject>
+        <topic>SHEEP</topic>
+    </subject>
+    <identifier type="citekey">Foster1996</identifier>
+    <part>
+        <date>1996-JUN 8</date>
+        <detail type="volume"><number>138</number></detail>
+        <detail type="issue"><number>23</number></detail>
+        <extent unit="page">
+            <start>559</start>
+            <end>562</end>
+            <total>6</total>
+        </extent>
+    </part>
+</mods>
+</modsCollection>

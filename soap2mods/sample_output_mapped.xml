@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RETURN>
+    <QUERYID>2</QUERYID>
+    <RECORDSFOUND>252</RECORDSFOUND>
+    <RECORDSSEARCHED>66339</RECORDSSEARCHED>
+    <RECORDS>
+        <UID>WOS:000371162800051</UID>
+        <TITLE>
+            <LABEL>TITLE</LABEL>
+            <!-- TI -->
+            <VALUE>FERROPORTIN AND HEPCIDIN IN RETINAL IRON HOMEOSTASIS</VALUE>
+        </TITLE>
+        <SOURCE>
+        <LABEL>ISSUE</LABEL>
+        <!--IS-->
+        <VALUE>3</VALUE>
+        </SOURCE>
+        <SOURCE>
+        <LABEL>PAGES</LABEL>
+        <VALUE>E64-E64</VALUE>
+        <!-- BP-EP -->
+        </SOURCE>
+        <SOURCE>
+        <LABEL>PUBLISHED.BIBLIODATE</LABEL>
+        <VALUE>MAR</VALUE>
+        <!-- PD -->
+        </SOURCE>
+        <SOURCE>
+        <LABEL>PUBLISHED.BIBLIOYEAR</LABEL>
+        <VALUE>2016</VALUE>
+        <!-- PY -->
+        </SOURCE>
+        <SOURCE>
+        <LABEL>SOURCETITLE</LABEL>
+        <VALUE>AMERICAN JOURNAL OF HEMATOLOGY</VALUE>
+        <!-- SO -->
+        </SOURCE>
+        <SOURCE>
+        <LABEL>VOLUME</LABEL>
+        <VALUE>91</VALUE>
+        <!-- VL -->
+        </SOURCE>
+        <AUTHORS>
+            <!-- AU -->
+            <LABEL>AUTHORS</LABEL>
+            <VALUE>SONG, DELU</VALUE>
+            <VALUE>THEURL, MILAN</VALUE>
+            <VALUE>CLARK, ESTHER</VALUE>
+            <VALUE>STERLING, JACOB</VALUE>
+            <VALUE>ALTAMURA, SANDRO</VALUE>
+            <VALUE>GALY, BRUNO</VALUE>
+            <VALUE>HENTZE, MATTHIAS</VALUE>
+            <VALUE>MUCKENTHALER, MARTINA</VALUE>
+            <VALUE>GRIECO, STEVEN</VALUE>
+            <VALUE>DUNAIEF, JOSHUA</VALUE>
+        </AUTHORS>
+        <OTHER>
+            <LABEL>IDENTIFIER.EISSN</LABEL>
+            <VALUE>1096-8652</VALUE>
+            <!-- SN -->
+        </OTHER>
+        <OTHER>
+            <LABEL>IDENTIFIER.IDS</LABEL>
+            <VALUE>DF2HI</VALUE>
+            <!-- GA -->
+        </OTHER>
+        <OTHER>
+            <LABEL>IDENTIFIER.ISSN</LABEL>
+            <VALUE>0361-8609</VALUE>
+            <!-- SN -->
+        </OTHER>
+        <OTHER>
+            <LABEL>RESEARCHERID.DISCLAIMER</LABEL>
+            <VALUE>RESEARCHERID DATA PROVIDED BY THOMSON REUTERS</VALUE>
+        </OTHER>
+    </RECORDS>
+</RETURN>
